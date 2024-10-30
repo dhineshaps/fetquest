@@ -6,4 +6,5 @@ fetquest/stock_return.py
 fetquest.egg-info/PKG-INFO
 fetquest.egg-info/SOURCES.txt
 fetquest.egg-info/dependency_links.txt
+fetquest.egg-info/requires.txt
 fetquest.egg-info/top_level.txt
