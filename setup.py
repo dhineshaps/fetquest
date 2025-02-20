@@ -6,7 +6,8 @@ long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
     name = "fetquest",
-    version = "0.0.6",
+    #version = "0.0.6",
+    version='{{VERSION_PLACEHOLDER}}',
     author = "Dhinesh Palanisamy",
     author_email = "daps.investment@gmail.com",
     description = "Package to help on Stock Market Visualization and Data",
